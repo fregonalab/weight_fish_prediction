@@ -1,4 +1,4 @@
-# Previsão da massa dos peixes - Estudo aprofundado sobre regressões lineares
+# Previsão da massa (g) dos peixes - Estudo aprofundado sobre regressões lineares
 
 ## Sumário
 * [Overview](#overview)
